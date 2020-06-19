@@ -1,0 +1,21 @@
+{
+    "name": "two/test",
+    "description": "pack test two",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "json",
+            "email": "json_yin@fionacos.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Two\\": "src/"
+        }
+    }
+}

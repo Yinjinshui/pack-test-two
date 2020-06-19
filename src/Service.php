@@ -2,7 +2,7 @@
 
 namespace Two;
 
-class Service {
+class Tservice {
 	public function __construct(){
 
 	}

@@ -2,7 +2,7 @@
 
 namespace Two;
 
-class Test {
+class Service {
 	public function __construct(){
 
 	}
